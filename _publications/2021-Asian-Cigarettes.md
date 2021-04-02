@@ -3,7 +3,7 @@ title: "Disaggregated Asian American Cigarette and Alternative Tabaco Product Us
 collection: publications
 permalink: /publication/2021-Asian-Cigarettes
 excerpt: 'In this paper, we examine the smoking rates among Asian Americans which is under-reported in the literature'
-date: 2021
+date: 2021-03-14
 venue: 'Journal of Racial and Ethnic Health Disparities'
 paperurl: ''
 citation: 'Manaeha R., Lily B., Yunnan Y., et al. (2009). "Disaggregated Asian American Cigarette and Alternative Tabaco Product Use: Results from the National Health Interview Survey (NHIS) 2006-2018" <i>Journal of Racial and Ethnic Health Disparities</i>.'
@@ -23,6 +23,6 @@ Filipinos had the highest current smoking rates of Asian subgroups. While more A
 
 **Keywords**: Asian American; Tobacco; E-cigarettes; Smoking; National Health Interview Survey
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]()
 
 Recommended citation: Manaeha R., Lily B., Yunnan Y., et al. (2009). "Disaggregated Asian American Cigarette and Alternative Tabaco Product Use: Results from the National Health Interview Survey (NHIS) 2006-2018" <i>Journal of Racial and Ethnic Health Disparities</i>.
