@@ -6,7 +6,7 @@ excerpt: 'In this paper, we examine the smoking rates among Asian Americans whic
 date: 2021-03-14
 venue: 'Journal of Racial and Ethnic Health Disparities'
 paperurl: ''
-citation: 'Manaeha R., Lily B., Yunnan Y., et al. (2009). "Disaggregated Asian American Cigarette and Alternative Tabaco Product Use: Results from the National Health Interview Survey (NHIS) 2006-2018" <i>Journal of Racial and Ethnic Health Disparities</i>.'
+citation: 'Manaeha R.; Lily B.; Yunnan Y.; Malathi S.; MD, Arnab M. DrPH, MPH; Jiang L., PhD, MPH; Sukyung C. PhD; Siddharth V.; **Shozen D.**; Latha P., MD, MS (2009). "Disaggregated Asian American Cigarette and Alternative Tabaco Product Use: Results from the National Health Interview Survey (NHIS) 2006-2018" <i>Journal of Racial and Ethnic Health Disparities</i>.'
 ---
 ### Abstract
 #### Introduction
