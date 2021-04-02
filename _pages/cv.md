@@ -11,36 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Statistics, University of California Davis, 2019-2020 (Exchange)
+* Public Health and Medicine, Stanford School of Medicine, 2020-2021 (Research)
+* B.A. in Environmental and Information Science, Keio University, 2021
+<!-- * MSc. in Statistics and Data Science, Imperial College London, 2021-2022 -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2021: Research Intern & Assistant
+  * Stanford School of Medicine
+  * Duties included: Data analysis, visualization, paper writing
+  * Supervisor(s): [Latha Palaniappan MD](https://profiles.stanford.edu/latha-palaniappan), [Malathi Srinivasan MD](https://profiles.stanford.edu/malathi-srinivasan)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2021: Research Assistant
+  * University of California Davis
+  * Duties included: Package development, data analysis, paper writing
+  * Supervisor(s): [Naoki Saito PhD](https://www.math.ucdavis.edu/~saito/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Languages
+  * Julia (+2 years)
+  * R (+3 years)
+  * Python (+3 years)
+* Natural Languages
+  * Japanese (Native)
+  * English (Native)
+  * Chinese (Fluent)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Adhoc Journal Reviews
+======
+* Journal of American College of Cardiology, Asia
   
 Talks
 ======
@@ -53,7 +60,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
